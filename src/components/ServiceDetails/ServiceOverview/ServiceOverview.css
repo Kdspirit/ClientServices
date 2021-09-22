@@ -1,0 +1,33 @@
+.service-overview{
+    margin-top: 8vh;
+    width: 85%;
+    margin: 0 auto;
+    margin-bottom: 8vh;
+}
+.service-overview-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sub-service-desimage{
+    width:31vw;
+    height: 31vh;
+    border-radius: 10px;
+}
+.sub-service-descip{
+    font-size: 20px;
+    color: #131313;
+    font-family: Aller;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: justify;
+    margin-right: 3vw;
+    margin-top: 2vh;
+}
+.overview-heading{
+    text-align: center;
+    font-size: 45px;
+    color: #000;
+    font-weight: 700;
+    font-family: Aller;
+    margin-top: 1vw;
+}

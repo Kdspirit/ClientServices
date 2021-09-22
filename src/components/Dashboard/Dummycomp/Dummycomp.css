@@ -1,0 +1,29 @@
+.Dummy-block{
+    display: flex;
+    background: #083058 0% 0% no-repeat padding-box;
+    border: 1px solid #B5C1CD;
+    opacity: 1;
+    width: 98.8vw;
+    height: 25vh;
+    justify-content: space-evenly;
+    padding: 4rem;
+    margin-top: 8vh;
+
+}
+.block-para{
+    color: white;
+    font-size: xx-large;
+}
+.Dummy-block button{
+    color: #083058; 
+    background: white;
+    width: 13vw;
+    border-radius: 10px;
+    height: 7vh;
+}
+.Dummy-block button:hover {
+    background: #6190e8;
+    color: black;
+    font-weight: 600;
+    /* transform: translate(50px,100px); */
+}

@@ -1,0 +1,33 @@
+.overviewElem-industry {
+    display: flex;
+    /* background: yellow; */
+    margin: 2rem 5rem;
+    padding: 2rem;
+}
+img.indus-overview-img {
+    height: 40vh;
+    width: 31vw;
+}
+.overview {
+    font-size: 2.2rem;
+    font-weight: bold;
+    text-align: center;
+}
+.overview-elem-list- {
+    font-size: 1.25rem;
+    letter-spacing: 0.03rem;
+}
+.overview-elem-wrapper {
+    /* background: yellowgreen; */
+    margin-left: 5rem;
+}
+p.indus-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: 0.05rem;
+    word-break: break-word;
+    margin-top: 4rem;
+    color: #ba5370;
+    line-height: 3rem;
+    margin-right: 2rem;
+}

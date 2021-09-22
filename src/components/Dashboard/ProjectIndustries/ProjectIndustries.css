@@ -1,0 +1,22 @@
+p.product-categories {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 8rem;
+}
+.industriesElem-img {
+    height: 9rem;
+    width: 6.5rem;
+    margin-bottom: 1rem;
+}
+.industriesElem-name {
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: whitesmoke;
+}
+.project-industries {
+    background: black;
+    color: whitesmoke;
+}
+
+

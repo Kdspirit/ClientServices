@@ -1,0 +1,45 @@
+.about-us-office1 {
+    height: 70vh;
+    border-radius: 2rem;
+}
+.about-us-container {
+    width: 80vw;
+    margin: 0 auto;
+    display: flex;
+    padding: 2rem 1rem;
+
+}
+.about-us-title {
+    color: #2d4a8a;
+    font-size: 1.5rem;
+}
+.about-us-brief {
+    font-size: 1.9rem;
+    font-weight: bold;
+    color: black;
+}
+.about-us-wrapper {
+    color: #2d4a8a;
+    padding: 1rem 2rem;
+}
+.about-us-desc {
+    letter-spacing: 0.04rem;
+    word-spacing: 0.05rem;
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
+ul.about-us-list {
+    letter-spacing: 0.04rem;
+    word-spacing: 0.05rem;
+    line-height: 1.5rem;
+    font-size: 1rem;
+}
+ul.about-us-list li{
+    list-style: none;
+    padding: 0.08rem;
+}
+.about-us-helpline {
+    letter-spacing: 0.05rem;
+    word-spacing: 0.05rem;
+    line-height: 1.5rem;
+}

@@ -1,0 +1,49 @@
+.WeEngineer-wrapper{
+    text-align: center;
+    margin-top: -82vh;
+    margin-bottom: 28vh;
+}
+.we-engi{
+    color: white;
+    font-size: 6rem;
+    font-family: cursive
+}
+.we-engi-proverd{
+    color: ghostwhite;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.quote-flex{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1vh;
+}
+.what-we-do{
+    border: 1px solid black;
+    background: white;
+    padding: 1rem;
+    width:30vw;
+    opacity: 0.9;
+}
+.quotes{
+    border: 1px solid black;
+    background: white;
+    padding: 1rem;
+    width:30vw;
+    opacity: 0.9;
+}
+.what-we-para{
+    font-weight: 500;
+    font-size: 1rem;
+    margin-bottom: 1vh;
+}
+.what-we-dop2{
+    font-size: larger;
+    font-weight: 800;
+}
+.quote-main{
+    font-size: 1.1rem;
+    font-weight: 700;
+    font-style: oblique;
+}

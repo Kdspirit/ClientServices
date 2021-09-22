@@ -1,0 +1,46 @@
+.work-process-container{
+    text-align: center;
+    margin-top: 8vh;
+    margin-bottom: 8vh;
+}
+.how-title{
+    color: #2d4a8a;
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 0.5rem;
+}
+.xyzabc{
+    color: #2d4a8a;
+}
+.how-title-process {
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 2.2rem;
+    margin-bottom: 2.3rem;
+}
+.work-process {
+    display: flex;
+    justify-content: space-evenly;
+}
+.workprocess-img {
+    height: 12rem;
+    width: 12rem;
+    border-radius: 7rem;
+    border: 3px solid lightgray;
+    padding: 0.5rem;
+}
+.workprocess-img:hover{
+    border: 3px solid #2d4a8a;
+}
+.wp-wrapper {
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.wp-wrapper:hover{
+    color: #2d4a8a;
+    transform: scale(1.02); 
+}
+.wp-desc {
+    margin: 0.5rem 0;
+}

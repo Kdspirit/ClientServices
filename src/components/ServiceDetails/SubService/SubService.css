@@ -1,0 +1,93 @@
+.sub-service-wrap1{
+    display: flex;
+    /* background: #090f1d; */
+    background: transparent linear-gradient(90deg, #16222A 0%, #3A6073 100%) 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+    padding-top: 5vh;
+    justify-content: space-evenly;
+    padding-bottom: 5vh;
+    
+}
+.sub-service-wrap1:hover {
+    transform: scale(1.02);
+    width: 97.8vw;
+}
+
+.sub-service-name{
+    color: white;
+    font-size: 47px;
+    font-weight: 700;
+    font-family: Aller;
+}
+.sub-service-description{
+    font-family: Aller;
+    color: white;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: justify;
+    font-size: 20px;
+}
+.workStrategy{
+    color:white;
+    font-family: Aller;
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 20px;
+}
+.sub-sectionblue1{
+    width:40vw;
+}
+.sub-sectionblue2{
+    width:40vw;
+}
+.sub-sectionblue2 img{
+    width: 35vw;
+    height: 30vw;
+    margin-top: 5vh;
+
+}
+
+/* white Section */
+
+.sub-service-wrap2{
+    display: flex;
+    background: white;
+    padding-top: 5vh;
+    justify-content: space-evenly;
+    padding-bottom: 5vh;
+    
+}
+.sub-service-name2{
+    color: black;
+    font-size: 47px;
+    font-weight: 700;
+    font-family: Aller;
+}
+.sub-service-description2{
+    font-family: Aller;
+    color: black;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: justify;
+    font-size: 20px;
+}
+.workStrategy2{
+    color:black;
+    font-family: Aller;
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 20px;
+}
+.sub-sectionwhite1{
+    width:40vw;
+}
+.sub-sectionwhite2{
+    width:40vw;
+}
+.sub-sectionwhite2 img{
+    width: 38vw;
+    height: 30vw;
+    margin-top: 5vh;
+   
+}

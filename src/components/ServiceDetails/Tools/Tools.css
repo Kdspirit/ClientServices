@@ -1,0 +1,33 @@
+.tech-sub-heading{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+    font-family: 'slick';
+
+}
+.tools-wrap{
+    margin-bottom: 8vh;
+}
+.Tech-heading{
+    text-align: center;
+    color: slategray;
+    margin-bottom: 0rem;
+}
+
+.tools-image{
+    width: 4vw;
+    height: 8vh;
+}
+.tools-name{
+    padding-top: 0.5rem;
+    font-size: 20px;
+    font-weight: 400;
+}
+.tools-container{
+    display: inline-block;
+    text-align: center;
+    margin-left: 3vw;
+    margin-top: 4vh;
+    width: 10rem;
+}
+

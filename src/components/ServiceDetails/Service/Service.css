@@ -1,0 +1,33 @@
+.sservice-container{
+    display: inline-block;
+    text-align: center;
+    margin-left: 3vw;
+    width: 15vw;
+    margin-top: 4vh;
+}
+.sservice-wrap{
+    background: transparent linear-gradient( 
+90deg, #16222A 0%, #3A6073 100%) 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    color: white;
+    padding-top: 1.5rem;
+    margin-bottom: 7vh;
+
+}
+.sservice-image {
+    width: 5vw;
+    height: 9vh;
+}
+.sservice-name{
+    padding-top: 1.0rem;
+    font-size: 23px;
+    font-weight: 400;
+    margin-bottom: 6vh;
+}
+.sservice-heading{
+    text-align: center;
+    font-size: 32px;
+    font-family: 'slick';
+
+}

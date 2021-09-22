@@ -1,0 +1,25 @@
+button.Services-elem-list- {
+    padding: 1rem;
+    margin: 1rem 3rem;
+    height: 8rem;
+    width: 34rem;
+    font-size: 1.45rem;
+    font-weight: 700;
+    color: white;
+        background: transparent linear-gradient(90deg, #16222A 0%, #3A6073 100%) 0% 0% no-repeat padding-box;
+    /* background: linear-gradient(to left, #83a4d4, #b6fbff); */
+}
+.Services-elem-list-:hover {
+    color: black;
+    background: linear-gradient(to left, #83a4d4, #b6fbff);
+}
+p.Services-elems-container {
+    display: block;
+    width: 85%;
+    margin: 0 auto;
+}
+p.digital-services {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.2rem;
+}

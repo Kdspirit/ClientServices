@@ -1,0 +1,43 @@
+.trend-wrap{
+    margin-top: 5vh;
+}
+.latest-trend {
+    text-align: center;
+    font-weight: 400;
+    color: slategrey;
+    margin-bottom: 0rem !important;
+}
+.service-name{
+    text-align: center;
+    font-size: 38px;
+
+}
+.trend-element{
+    width: 63%;
+    margin: 0 auto;
+    margin-bottom: 8vh;
+}
+.trend-names{
+    border: 3px solid gray;
+    display: inline-block;
+    justify-content: space-evenly;
+    width: 26vw;
+    height: 24vh;
+    text-align: center;
+    padding-top: 4rem;
+    margin: 1vw 2vw 2vh;
+    border-radius: 10px;
+    font-family: Aller;
+    font-size: 27px;
+    /* background: slategray; */
+    background: transparent linear-gradient(90deg, #16222A 0%, #3A6073 100%) 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    color: white;
+    box-shadow: 6px 14px 17px lightgrey;
+    cursor: pointer;
+}
+.trend-names:hover {
+    background: linear-gradient(to left, #83a4d4, #b6fbff);
+    color: black;
+}

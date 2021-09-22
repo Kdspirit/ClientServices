@@ -1,0 +1,18 @@
+.navbar2-container {
+    display: flex;
+    font-size: 13px;
+    height: 52px;
+    line-height: 52px;
+    background-color: #263045;
+    color: white;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.navbar2-address, .navbar2-mail, .navbar2-timings{
+    display: flex;
+    align-items: center;
+}
+.banner-img {
+    height: 90vh;
+    width: 98.9vw;
+}

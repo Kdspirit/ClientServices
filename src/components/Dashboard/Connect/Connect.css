@@ -1,0 +1,46 @@
+.social-media-icons {
+    height: 17rem;
+    width: 16rem;
+}
+.linkedin-logo:hover {
+    transform: scale(1.04);
+    border-radius: 20rem;
+    height: 16rem;
+    width: 16rem;
+    box-shadow: 0px 0px 14px 6px #0077b5;
+}
+.fb-logo:hover {
+    transform: scale(1.04);
+    border-radius: 20rem;
+    height: 16rem;
+    width: 16rem;
+    box-shadow: 0px 0px 14px 6px #3b5998;
+}
+.twitter-logo:hover {
+    transform: scale(1.04);
+    border-radius: 20rem;
+    height: 16rem;
+    width: 16rem;
+    box-shadow: 0px 0px 14px 6px #1DA1F2;
+}
+.insta-logo:hover {
+    transform: scale(1.04);
+    border-radius: 20rem;
+    height: 16rem;
+    width: 16rem;
+    box-shadow: 0px 0px 14px 6px #e95950;
+}
+.connect-container {
+    margin-bottom: 8vh;
+}
+.connect-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: cursive;
+    line-height: 6rem;
+}
+.connect-us-logos {
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,47 @@
+.service-wrap{
+    /* background: rgba(34, 35, 37, 0.9); */
+    background: black;
+    height: auto;
+    width: 98.8vw;
+    padding-top: 1rem;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    padding-bottom: 5vh;
+}
+.service-para{
+    color: white;
+    text-align: center;
+    font-size: 3vw;
+    margin-bottom: 1rem;
+}
+.service-para2{
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+}
+.service-card{
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    width: 21vw;
+    height: 33vh;
+    border-radius: 10px;
+    /* margin-left: 3vw; */
+    padding: 2rem;
+    text-align: center;
+    margin-top: 4vh;
+}
+.service-img{
+    width: 7vw;
+    height: 13vh;
+}
+
+.service-title{
+    color: white;
+    margin-top: 3vh;
+    font-size: 27px;
+}
+.service-card:hover{
+    transform: scale(1.04);
+    border-radius: 10px;
+    height: 33vh;
+    width: 21vw;
+    box-shadow: 0px 0px 14px 6px  rgba(255,145,83,1) ;
+}

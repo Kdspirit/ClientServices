@@ -1,0 +1,31 @@
+.footer-container{
+    display: flex;
+    background: #000f2d;
+    color: white;
+    padding:2rem;
+    justify-content: space-evenly;
+    height: 15vw;
+    width: 98.8vw;
+}
+.AboutUs{
+    width:20vw;
+    text-align: center;
+}
+.logo {
+    padding: 1rem;
+}
+.logo img{
+    width:20vw;
+    height: 15vh;
+}
+.contact-us{
+    width:24vw;
+    text-align: center;
+    padding: 2rem;
+
+}
+.aboutus-para{
+    ont-size: 2rem;
+    font-weight: bold;
+    color: #38b6ff;
+}

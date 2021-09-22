@@ -1,0 +1,51 @@
+.meeting-in {
+    width: 88vw;
+    height: 95vh;
+}
+.designs-img {
+    height: 5rem;
+    width: 5rem;
+    margin: 1rem;
+}
+.why-infoidol {
+    background: #2d4a8a;
+    width: 46.8vw;
+    height: 40rem;
+    margin-top: -37rem;
+    margin-left: 50rem;
+    position: absolute;
+    padding: 2rem 4rem;
+    color: white;
+}
+.why-container {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.aspects-services {
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 0.05rem;
+    word-spacing: 0.07rem;
+    line-height: 2.5rem;
+}
+.aspects-brief {
+    word-spacing: 0.07rem;
+    letter-spacing: 0.05rem;
+}
+.product-designs {
+    display: flex;
+    border-bottom: 1px solid #828282;
+}
+.product-designs-container {
+    line-height: 1rem;
+    margin-top: 1.2rem;
+    margin-left: 0.5rem;
+}
+.product-designs-title {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+section.aspects-container {
+    /* margin-bottom: 6rem; */
+    margin: 8vh 0;
+}
